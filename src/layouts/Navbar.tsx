@@ -11,7 +11,7 @@ import {
 } from '../components/ui/dropdown-menu';
 import { HiOutlineSearch } from 'react-icons/hi';
 import Cart from '../components/Cart';
-import logo from '../assets/images/technet-logo.png';
+import logo from '../assets/images/lifters choice.png';
 
 export default function Navbar() {
   return (
@@ -19,7 +19,7 @@ export default function Navbar() {
       <div className="h-full w-full bg-white/60">
         <div className="flex items-center justify-between w-full md:max-w-7xl h-full mx-auto ">
           <div>
-            <img className="h-8" src={logo} alt="log" />
+            <img className="h-20" src={logo} alt="log" />
           </div>
           <div>
             <ul className="flex items-center">

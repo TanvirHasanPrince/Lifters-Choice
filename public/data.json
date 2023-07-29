@@ -1,16 +1,16 @@
 [
   {
     "_id": 1,
-    "name": "Haylou GST",
-    "image": "https://live.staticflickr.com/65535/52953899202_478089ea5f_h.jpg",
-    "price": 31.99,
+    "name": "100% GOLD STANDARD WHEY PROTEIN",
+    "image": "https://gymsupplementscenterbangladesh.com/uploads/product/gold_12.jpg",
+    "price": 13,
     "features": [
-      "1.69'' HD display",
-      "Support 12 workout modes",
-      "Support all-day heart rate and blood oxygen monitoring",
-      "Support intelligent sleep monitoring",
-      "IP68 dustproof and waterproof",
-      "20 days of battery life"
+      "New look New packaging, with the same trusted quality!",
+      "Available Size-2lbs-5lbs and 10lbs.",
+      "24 g Protein",
+      "5.5 g BCAAs",
+      "4 g Glutamine & Glutamic Acid",
+      "Naturally & Artificially Flavored"
     ],
     "status": true,
     "rating": 4
@@ -18,7 +18,7 @@
   {
     "_id": 2,
     "name": "Haylou GS",
-    "image": "https://live.staticflickr.com/65535/52954632614_2db2bed3a7_h.jpg",
+    "image": "https://gymsupplementscenterbangladesh.com/uploads/product/ON_CRE1.jpg",
     "price": 32.38,
     "features": [
       "38g compact body, more comfortable to wear",
@@ -33,29 +33,27 @@
   },
   {
     "_id": 3,
-    "name": "Haylou Solar Plus RT3",
-    "image": "https://live.staticflickr.com/65535/52953899127_38e776f3f7_h.jpg",
+    "name": "ON MICRONIZED CREATINE",
+    "image": "https://gymsupplementscenterbangladesh.com/uploads/product/ON_CRE1.jpg",
     "price": 48.79,
     "features": [
-      "Bluetooth 5.2, worry-free communication made easy",
-      "Precise and clear experience with 1.43\" Amoled display",
-      "5d looking level-up, exquisite metal bezel",
-      "Always-on display, conf_ident time control",
-      "Versatile watch faces, support customize watch face"
+      "5 grams pure creatine monohydrate per serving.",
+      "99.9% Pure Creatine with No Fillers to Support Strength, Power and build muscle.",
+      "Highly researched, creatine monohydrate has been shown to support muscle strength, power and size when combined with high-intensity activities. Micronized Creatine Powder is made with Creapure, a creatine monohydrate known for its exceptional purity"
     ],
     "status": true,
     "rating": 5
   },
   {
     "_id": 4,
-    "name": "Haylou RT2",
-    "image": "https://live.staticflickr.com/65535/52954494936_efd69e2df9_h.jpg",
+    "name": "MASS TECH EXTREME 2000",
+    "image": "https://gymsupplementscenterbangladesh.com/uploads/product/mass_t7.jpg",
     "price": 38.99,
     "features": [
-      "360*360 high resolution display",
-      "Support 12 workout modes",
-      "Support all-day heart rate and blood oxygen monitoring",
-      "Support intelligent sleep monitoring",
+      "MASS GAINER PROTEIN POWDER – Mass-Tech Extreme 2000 is a 5-in-1 hardcore mass gainer designed for individuals looking to put on extreme mass. Mass-Tech Extreme 2000 has everything you need to bulk up, pack on muscle and smash through strength.",
+      "MUSCLE BUILDER – Mass-Tech Extreme 2000 delivers more protein per serving than most other mass gainers. With a whopping 80g of premium protein, your body will have all the building blocks it needs to build the size and muscle you’re looking for.",
+      "SUPERIOR WEIGHT GAINER – It’s clean and simple. Delivers more protein (80g), better calories and bigger results than other mass gainers, with the macros you need to pack on quality mass.",
+      "CREATINE MONOHYDRATE – Mass-Tech Extreme 2000 contains creatine monohydrate to help you increase strength and regenerate ATP stores that are reduced during resistance training.",
       "20 days of battery life"
     ],
     "status": true,
@@ -63,32 +61,33 @@
   },
   {
     "_id": 5,
-    "name": "Haylou RS4 Plus",
-    "image": "https://live.staticflickr.com/65535/52953899137_072c5c4ffc_h.jpg",
+    "name": "BPI BEST BCAA",
+    "image": "https://gymsupplementscenterbangladesh.com/uploads/product/BPI_BC.jpg",
     "price": 54.84,
     "features": [
-      "1.78'' AMOLED HD display",
-      "60HZ refresh rate, smooth and delicate picture quality",
-      "Support 105 workout modes",
-      "Support multi-UI main menu mode",
-      "Support all-day heart rate and blood oxygen monitoring",
-      "Support Alipay offline payment"
+      "Natural and Artificial Flavors",
+      "Delicious Flavor",
+      "5 g BCAA",
+      "Agmatine Sulfate",
+      "Agmatine Sulfate",
+      "Pre/Intra/Post Workout"
     ],
     "status": false,
     "rating": 4
   },
   {
     "_id": 6,
-    "name": "Haylou RS3",
-    "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+    "name": "HYDROXYCUT NEXT GEN",
+    "image": "https://gymsupplementscenterbangladesh.com/uploads/product/da.jpg",
     "price": 63.07,
     "features": [
-      "1.2'' AMOLED HD display",
-      "Support 14 workout modes",
-      "Support all-day heart rate and blood oxygen monitoring",
-      "SONY GPS, accurate positioning of movement trajectory",
-      "5ATM waterproof",
-      "21 days of battery life"
+      "Performance Series",
+      "America's #1 Selling Weight Loss Supplement Brand",
+      "Next Generation Weight Loss & Extreme Sensory",
+      "Advanced, Scientifically Tested Weight Loss",
+      "Extreme Energy and Mental Focus",
+      "Features Scutellaria, Guayusa & Coleus",
+      "Dietary Supplement"
     ],
     "status": true,
     "rating": 5
