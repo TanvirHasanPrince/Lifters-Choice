@@ -26,7 +26,7 @@ const { data: product, isLoading, error } = useGetSigleProductQuery(id);
           <Button>Add to cart</Button>
         </div>
       </div>
-      <ProductReview />
+      <ProductReview id={id!} />
     </>
   );
 }
